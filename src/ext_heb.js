@@ -99,7 +99,7 @@ var Lang = {
 			onInput: 'כאשר ערכו של %m.inputSensors %n %m.compares %m.inputs',
 			isClosed: 'האם %m.openCloseSensors %m.inputs סגור',
 			getCounter: 'קרא ערכו של מונה %m.counters',
-			getSensor: 'קרא ערכו של %m.inputSensors %m.inputs',
+			getSensor: 'קרא את ערכו של %m.inputSensors %m.inputs',
 			doPlaySound: 'נגן צליל %n',
 			doPlaySoundWait: 'נגן צליל %n עד לסיומו',
 			doSetLamp: 'קבע עוצמת נורה %m.outputs ל %n',
