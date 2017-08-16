@@ -107,7 +107,7 @@ var Lang = {
 			doResetCounter: 'אפס מונה %m.counters',
 			doSetMotorSpeed: 'הפעל מנוע %m.motors במהירות %n',
 			doSetMotorSpeedDir: 'הפעל מנוע %m.motors במהירות %n %m.motorDirections',
-			doSetMotorDir: 'הפעל מנוע לכיוון %m.motors ל %m.motorDirections',
+			doSetMotorDir: 'הפעל מנוע  %m.motors לכיוון %m.motorDirections',
 			doSetMotorSpeedDirDist: 'הפעל מנוע %m.motors למרחק %n צעדים במהירות %n %m.motorDirections',
 			doSetMotorSpeedDirSync: 'הפעל מנועים %m.motors וגם  %m.motors במהירות %n %m.motorDirections',
 			doSetMotorSpeedDirDistSync: 'הפעל מנועים %m.motors וגם %m.motors למרחק %n צעדים במהירות %n %m.motorDirections',
